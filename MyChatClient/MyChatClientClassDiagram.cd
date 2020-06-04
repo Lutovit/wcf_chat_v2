@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyChatClient.App" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyChatClient.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="8" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>KCABAAAEAIAAAAgAADAAQBAAAEAAAAAAAAIAgAAAAgA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="isConnected" />
+      <Field Name="_serviceManager" />
+      <Field Name="_currentUserId" />
+      <Property Name="_username" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyChatClient.PrivateMessage" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgBEEACAAAAAAAKAIIAAAAAAAAAAAAAACAICAAgA=</HashCode>
+      <FileName>PrivateMassage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_adressee" />
+      <Field Name="_serviceManager" />
+      <Field Name="pmID" />
+      <Field Name="_sender" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyChatClient.ServiceManager" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAEQAAAAAAAAIAAIQACAAAACAAAAECBIAAQAgA=</HashCode>
+      <FileName>ServiceManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PrivateMessagesServiceClient" />
+      <Property Name="ServiceChatClient" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyChatClient.MessageEventArgs">
+    <Position X="14" Y="6" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAAAE=</HashCode>
+      <FileName>ServiceManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_adressename" />
+      <Field Name="_message" />
+      <Field Name="_sendername" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MyChatClient.Properties.Resources" Collapsed="true">
+    <Position X="3" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyChatClient.Properties.Settings" Collapsed="true">
+    <Position X="3" Y="8.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyChatClient.wcf_chat.ServiceChatClient" BaseTypeListCollapsed="true">
+    <Position X="6" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEQEAAAIAAAAAAAAAQAgAIBAAAgAAEAAAAAAAAgEAAA=</HashCode>
+      <FileName>Service References\wcf_chat\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyChatClient.wcf_chat.PrivateMessageServiceClient" BaseTypeListCollapsed="true">
+    <Position X="8.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAACAAAAEAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Service References\wcf_chat\Reference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="System.String" Collapsed="true">
+    <Position X="10.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="System.Int32" Collapsed="true">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Struct Name="System.Boolean" Collapsed="true">
+    <Position X="14" Y="9" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Interface Name="MyChatClient.IServiceManager">
+    <Position X="4.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAIAAAAAAAAAACAAAAECBIAAQAAA=</HashCode>
+      <FileName>IServiceManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="PrivateMessagesServiceClient" />
+      <Property Name="ServiceChatClient" />
+    </ShowAsAssociation>
+  </Interface>
+  <Interface Name="MyChatClient.wcf_chat.IServiceChat">
+    <Position X="1" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQEAAAIAAAAAAAAAQAgAIBAAAgAAEAAAAAAAAgEAAA=</HashCode>
+      <FileName>Service References\wcf_chat\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyChatClient.wcf_chat.IServiceChatCallback">
+    <Position X="0.5" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Service References\wcf_chat\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyChatClient.wcf_chat.IServiceChatChannel">
+    <Position X="0.5" Y="4.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\wcf_chat\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyChatClient.wcf_chat.IPrivateMessageService">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAACAAAAEAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Service References\wcf_chat\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyChatClient.wcf_chat.IPrivateMessageServiceCallback">
+    <Position X="3" Y="9.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAIAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\wcf_chat\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MyChatClient.wcf_chat.IPrivateMessageServiceChannel">
+    <Position X="0.5" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service References\wcf_chat\Reference.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

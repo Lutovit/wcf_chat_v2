@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wcf_chat", "wcf_chat\wcf_chat.csproj", "{D751AB09-EAC7-44B7-B12A-0444D5A28603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyChatHost", "MyChatHost\MyChatHost.csproj", "{F476401B-769B-4095-B3CB-5D3381C501D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyChatClient", "MyChatClient\MyChatClient.csproj", "{32AC1232-7905-4FB8-BFDA-FA805FA31183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D751AB09-EAC7-44B7-B12A-0444D5A28603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D751AB09-EAC7-44B7-B12A-0444D5A28603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D751AB09-EAC7-44B7-B12A-0444D5A28603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D751AB09-EAC7-44B7-B12A-0444D5A28603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F476401B-769B-4095-B3CB-5D3381C501D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F476401B-769B-4095-B3CB-5D3381C501D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F476401B-769B-4095-B3CB-5D3381C501D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F476401B-769B-4095-B3CB-5D3381C501D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AC1232-7905-4FB8-BFDA-FA805FA31183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AC1232-7905-4FB8-BFDA-FA805FA31183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AC1232-7905-4FB8-BFDA-FA805FA31183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AC1232-7905-4FB8-BFDA-FA805FA31183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B44298A6-938D-40E7-A9F9-C1870667F3C9}
+	EndGlobalSection
+EndGlobal

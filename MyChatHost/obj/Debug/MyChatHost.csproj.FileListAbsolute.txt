@@ -1,0 +1,92 @@
+D:\курсы С++ бауманка\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe.config
+D:\курсы С++ бауманка\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csprojResolveAssemblyReference.cache
+D:\курсы С++ бауманка\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe
+D:\курсы С++ бауманка\wcf_chat\MyChatHost\bin\Debug\MyChatHost.pdb
+D:\курсы С++ бауманка\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll
+D:\курсы С++ бауманка\wcf_chat\MyChatHost\bin\Debug\wcf_chat.pdb
+D:\курсы С++ бауманка\wcf_chat\MyChatHost\obj\Debug\MyChatHost.exe
+D:\курсы С++ бауманка\wcf_chat\MyChatHost\obj\Debug\MyChatHost.pdb
+E:\курсы С++ бауманка\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe.config
+E:\курсы С++ бауманка\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe
+E:\курсы С++ бауманка\wcf_chat\MyChatHost\bin\Debug\MyChatHost.pdb
+E:\курсы С++ бауманка\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll
+E:\курсы С++ бауманка\wcf_chat\MyChatHost\bin\Debug\wcf_chat.pdb
+E:\курсы С++ бауманка\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll.config
+E:\курсы С++ бауманка\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csprojAssemblyReference.cache
+E:\курсы С++ бауманка\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csproj.CoreCompileInputs.cache
+E:\курсы С++ бауманка\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csproj.CopyComplete
+E:\курсы С++ бауманка\wcf_chat\MyChatHost\obj\Debug\MyChatHost.exe
+E:\курсы С++ бауманка\wcf_chat\MyChatHost\obj\Debug\MyChatHost.pdb
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe.config
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatHost\bin\Debug\MyChatHost.pdb
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatHost\bin\Debug\wcf_chat.pdb
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll.config
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csprojAssemblyReference.cache
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csproj.CoreCompileInputs.cache
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csproj.CopyComplete
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatHost\obj\Debug\MyChatHost.exe
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatHost\obj\Debug\MyChatHost.pdb
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\wcf_chat.pdb
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll.config
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csprojAssemblyReference.cache
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csproj.CoreCompileInputs.cache
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.exe
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.pdb
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe.config
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\MyChatHost.pdb
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csproj.CopyComplete
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe.config
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\MyChatHost.pdb
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\wcf_chat.pdb
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll.config
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csprojAssemblyReference.cache
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csproj.CoreCompileInputs.cache
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csproj.CopyComplete
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.exe
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.pdb
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe.config
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatHost\bin\Debug\MyChatHost.pdb
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatHost\bin\Debug\wcf_chat.pdb
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll.config
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csprojAssemblyReference.cache
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csproj.CoreCompileInputs.cache
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csproj.CopyComplete
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.exe
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatHost\obj\Debug\MyChatHost.pdb
+D:\программирование\Диплом_Макс\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe.config
+D:\программирование\Диплом_Макс\wcf_chat\MyChatHost\bin\Debug\MyChatHost.exe
+D:\программирование\Диплом_Макс\wcf_chat\MyChatHost\bin\Debug\MyChatHost.pdb
+D:\программирование\Диплом_Макс\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll
+D:\программирование\Диплом_Макс\wcf_chat\MyChatHost\bin\Debug\wcf_chat.pdb
+D:\программирование\Диплом_Макс\wcf_chat\MyChatHost\bin\Debug\wcf_chat.dll.config
+D:\программирование\Диплом_Макс\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csprojAssemblyReference.cache
+D:\программирование\Диплом_Макс\wcf_chat\MyChatHost\obj\Debug\MyChatHost.csproj.CopyComplete
+D:\программирование\Диплом_Макс\wcf_chat\MyChatHost\obj\Debug\MyChatHost.exe
+D:\программирование\Диплом_Макс\wcf_chat\MyChatHost\obj\Debug\MyChatHost.pdb
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\wcf_chat.dll
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\wcf_chat.pdb
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\wcf_chat.dll.config
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\obj\Debug\MyChatHost.csprojAssemblyReference.cache
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\obj\Debug\MyChatHost.exe
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\obj\Debug\MyChatHost.pdb
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\MyChatHost.exe.config
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\MyChatHost.exe
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\MyChatHost.pdb
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\obj\Debug\MyChatHost.csproj.CopyComplete
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\EntityFramework.dll
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\EntityFramework.SqlServer.dll
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\System.Data.SQLite.dll
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\System.Data.SQLite.EF6.dll
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\System.Data.SQLite.Linq.dll
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\EntityFramework.xml
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\EntityFramework.SqlServer.xml
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\System.Data.SQLite.xml
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatHost\bin\Debug\System.Data.SQLite.dll.config

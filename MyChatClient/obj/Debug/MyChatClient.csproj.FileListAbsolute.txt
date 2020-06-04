@@ -1,0 +1,146 @@
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\bin\Debug\MyChatClient.exe.config
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\bin\Debug\MyChatClient.exe
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\bin\Debug\MyChatClient.pdb
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\bin\Debug\MyChatHost.exe
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\bin\Debug\wcf_chat.dll
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\bin\Debug\wcf_chat.pdb
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\bin\Debug\wcf_chat.dll.config
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csprojAssemblyReference.cache
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\PrivateMassage.g.cs
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\App.g.cs
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.cache
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.lref
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MainWindow.baml
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\PrivateMassage.baml
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MyChatClient.g.resources
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MyChatClient.Properties.Resources.resources
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.GenerateResource.cache
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.CoreCompileInputs.cache
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.CopyComplete
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MyChatClient.exe
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\obj\Debug\MyChatClient.pdb
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\bin\Debug\MyChatHost.pdb
+C:\Users\vvdud\OneDrive\Desktop\wcf_chat\MyChatClient\bin\Debug\MyChatHost.exe.config
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatClient.exe.config
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatClient.exe
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatClient.pdb
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatHost.exe
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\wcf_chat.dll
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatHost.pdb
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatHost.exe.config
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\wcf_chat.pdb
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\wcf_chat.dll.config
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csprojAssemblyReference.cache
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\PrivateMassage.g.cs
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\App.g.cs
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.cache
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.lref
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MainWindow.baml
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\PrivateMassage.baml
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.g.resources
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.Properties.Resources.resources
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.GenerateResource.cache
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.CoreCompileInputs.cache
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.CopyComplete
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.exe
+C:\Users\lutov\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.pdb
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatClient.exe.config
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatClient.exe
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatClient.pdb
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatHost.exe
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\wcf_chat.dll
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatHost.pdb
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatHost.exe.config
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\wcf_chat.pdb
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\bin\Debug\wcf_chat.dll.config
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csprojAssemblyReference.cache
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\PrivateMassage.g.cs
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\App.g.cs
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.cache
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.lref
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MainWindow.baml
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\PrivateMassage.baml
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.g.resources
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.Properties.Resources.resources
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.GenerateResource.cache
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.CoreCompileInputs.cache
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.CopyComplete
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.exe
+C:\Users\vvdud\OneDrive\Desktop\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.pdb
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatClient.exe.config
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatClient.exe
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatClient.pdb
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatHost.exe
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\bin\Debug\wcf_chat.dll
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatHost.pdb
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\bin\Debug\MyChatHost.exe.config
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\bin\Debug\wcf_chat.pdb
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\bin\Debug\wcf_chat.dll.config
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csprojAssemblyReference.cache
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\PrivateMassage.g.cs
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\App.g.cs
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.cache
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.lref
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MainWindow.baml
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\PrivateMassage.baml
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.g.resources
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.Properties.Resources.resources
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.GenerateResource.cache
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.CoreCompileInputs.cache
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.CopyComplete
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.exe
+C:\Users\lutov\Desktop\ItWorks_с правками\ItWorks\wcf_chat\MyChatClient\obj\Debug\MyChatClient.pdb
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\bin\Debug\MyChatClient.exe.config
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\bin\Debug\MyChatClient.exe
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\bin\Debug\MyChatClient.pdb
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\bin\Debug\MyChatHost.exe
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\bin\Debug\wcf_chat.dll
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\bin\Debug\MyChatHost.pdb
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\bin\Debug\MyChatHost.exe.config
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\bin\Debug\wcf_chat.pdb
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\bin\Debug\wcf_chat.dll.config
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csprojAssemblyReference.cache
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\MainWindow.g.cs
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\PrivateMassage.g.cs
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\App.g.cs
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.cache
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.lref
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\MainWindow.baml
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\PrivateMassage.baml
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\MyChatClient.g.resources
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\MyChatClient.Properties.Resources.resources
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.GenerateResource.cache
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\MyChatClient.csproj.CopyComplete
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\MyChatClient.exe
+D:\программирование\Диплом_Макс\wcf_chat\MyChatClient\obj\Debug\MyChatClient.pdb
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\bin\Debug\MyChatClient.exe.config
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\bin\Debug\MyChatClient.exe
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\bin\Debug\MyChatClient.pdb
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\bin\Debug\MyChatHost.exe
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\bin\Debug\wcf_chat.dll
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\bin\Debug\wcf_chat.pdb
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\bin\Debug\wcf_chat.dll.config
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\MainWindow.g.cs
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\PrivateMassage.g.cs
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\App.g.cs
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.cache
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\MyChatClient_MarkupCompile.lref
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\MainWindow.baml
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\PrivateMassage.baml
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\MyChatClient.g.resources
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\MyChatClient.Properties.Resources.resources
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\MyChatClient.csproj.GenerateResource.cache
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\MyChatClient.csproj.CopyComplete
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\MyChatClient.exe
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\MyChatClient.pdb
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\UserProfile.g.cs
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\UserProfile.baml
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\bin\Debug\EntityFramework.dll
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\bin\Debug\EntityFramework.xml
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\bin\Debug\MyChatHost.pdb
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\bin\Debug\MyChatHost.exe.config
+D:\программирование\Диплом_Макс\wcf_chat_v2\MyChatClient\obj\Debug\MyChatClient.csprojAssemblyReference.cache
